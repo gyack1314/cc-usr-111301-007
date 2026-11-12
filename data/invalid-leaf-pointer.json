@@ -1,0 +1,40 @@
+{
+  "kind": "pmtiles-archive",
+  "assets": [
+    {
+      "path": "leaf-pointer.pmtiles",
+      "bytes": 186,
+      "sha256": "f64bd45da8fd442512c0945877d9b8e968d65a67f4743306acc39206b713e8ad"
+    }
+  ],
+  "source": {
+    "path": "leaf-pointer.pmtiles",
+    "bytes": 186,
+    "sha256": "f64bd45da8fd442512c0945877d9b8e968d65a67f4743306acc39206b713e8ad"
+  },
+  "tiles": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      0
+    ]
+  ],
+  "max_directory_depth": 3,
+  "max_decompressed_bytes": 4096,
+  "read_budget": 4096
+}

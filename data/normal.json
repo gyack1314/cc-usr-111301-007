@@ -1,0 +1,40 @@
+{
+  "kind": "pmtiles-archive",
+  "assets": [
+    {
+      "path": "coverage.pmtiles",
+      "bytes": 194,
+      "sha256": "7829868ae29d47cf01f56bbdec56887dedff16f7845826343198db48cce6e326"
+    }
+  ],
+  "source": {
+    "path": "coverage.pmtiles",
+    "bytes": 194,
+    "sha256": "7829868ae29d47cf01f56bbdec56887dedff16f7845826343198db48cce6e326"
+  },
+  "tiles": [
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      0
+    ]
+  ],
+  "max_directory_depth": 3,
+  "max_decompressed_bytes": 4096,
+  "read_budget": 4096
+}
